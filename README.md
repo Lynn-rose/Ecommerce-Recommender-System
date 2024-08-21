@@ -152,7 +152,7 @@ These include:
 The best performing ones were tuned and ensembled to produce one model however this did not exhibit better performance. Further scaling of the dataset was done and cross validation included to improve the accuracy score  
 ## Deployment
 
-Included in the repository is a django user interface that serves as the rudimentary method through which users shall interact with our model. The interface was further deployed using **vercel**
+Included in the repository is a django user interface that serves as the rudimentary method through which users shall interact with our model. The interface was further deployed using **Railway**, this  is after integrating the web server with PostgreSQL.The link to the deployed version is [Ecommerce Recommender System](https://web-production-4170.up.railway.app/).
 
 ## Additional Documentation
 
